@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "fname": "ras",
+      "lname": "m",
+      "email": "ra@gmail.com",
+      "password": "789",
+      "id": 1
+    },
+    {
+      "fname": "ras",
+      "lname": "j",
+      "email": "ras@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "fname": "ras",
+      "lname": "j",
+      "email": "ras@gmail.com",
+      "password": "8888",
+      "id": 3
+    },
+    {
+      "fname": "teju",
+      "lname": "gowda",
+      "email": "teju@gmail.com",
+      "password": "1010",
+      "id": 4
+    },
+    {
+      "fname": "gowthami",
+      "lname": "J",
+      "email": "gowthami@gmail.com",
+      "password": "",
+      "id": 5
+    }
+  ],
+  "books": [
+    {
+      "id": 4,
+      "title": "A cat is chassing me you",
+      "author": "Bejamin birds",
+      "published": "Aug 1 2014"
+    },
+    {
+      "id": "121",
+      "title": "abc",
+      "author": "rashmi",
+      "published": "2021"
+    }
+  ]
+}
